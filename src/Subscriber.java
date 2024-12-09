@@ -1,4 +1,5 @@
 public class Subscriber {
+    //metehan
     private static int count = 1000000;
     private int s_id;
     private String name;

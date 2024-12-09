@@ -1,4 +1,5 @@
 import java.util.*;
+//metehan
 public class ServiceProvider {
     private int p_id;
     private String p_name;
@@ -139,7 +140,7 @@ public class ServiceProvider {
         }
     }
    public boolean teenager(Subscriber a){
-        if (a.getAge()<=18&&10<=a.getAge()){
+        if (a.getAge()<= 18 && 10 <=a.getAge()){
             return true;
         }else {
             return false;

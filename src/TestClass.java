@@ -2,7 +2,7 @@ import java.util.*;
 public class TestClass {
     private static ArrayList<Subscriber> subscribers = new ArrayList<>();
     private static ArrayList<ServiceProvider> providers = new ArrayList<>();
-
+//metehan
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         //ServiceProvider serviceProvider1=new ServiceProvider();
